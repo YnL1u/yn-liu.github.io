@@ -39,6 +39,16 @@
       {% if author.phone %}
         <li><i class="fas fa-phone"></i> {{ author.phone }}</li>
        {% endif %}
+      {% if author.skills %}
+       <div class="author__skills">
+       <strong>Tech Stack</strong>
+<ul>
+{% for skill in author.skills %}
+<li>{{ skill }}</li>
+{% endfor %}
+</ul>
+</div>
+{% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}
