@@ -25,27 +25,19 @@ author:
   avatar           : "LYN.jpg"
   name             : "YaNan Liu (刘亚男)"
   pronouns         : # example: "he/his"  
-  bio              : "Undergraduate Student at Changchun University of Technology, College of Humanities & Infomation"
+  bio              : "Software Engineering Student Interested in Algorithms, Data Structures and Web Development"
   location         : "China"
-  major            : "Software Engineering"
+  employer         : "CCUT Humanities & Information College"
   uri              : # URL
   email            : "WNYN0618@gmail.com" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0004-5471-4049"
-  semantic         : # URL
-  pubmed           : # URL
-  scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://yn-liuu.github.io"
+  github           : "yn-liuu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
