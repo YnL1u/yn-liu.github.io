@@ -8,8 +8,7 @@ redirect_from:
 ---
 ## 👋 About Me
 
-I am a 2024 undergraduate graduate from the School of Computer Science and Engineering, College of Humanities and Information, Changchun University of Technology. In 2028, I will receive a Bachelor of Science degree in Software Engineering from the university and complete a minor in Business Administration. During my university years, I held an important position in the student union, demonstrating strong organizational and coordination skills and a strong team spirit. I am also outgoing and have excellent communication skills. Furthermore, I received various scholarships multiple times, actively participated in various academic competitions and practical activities, and passed the College English Test Band 4 and Band 6. I am also preparing to pursue a Master's degree in a computer-related field.
-
+I am a 2024 undergraduate graduate of the School of Computer Science and Engineering, College of Humanities and Information, Changchun University of Technology. In 2028, I will receive a Bachelor of Science degree in Software Engineering from the university and complete a minor in Business Administration. During my undergraduate studies, I received various scholarships, actively participated in various academic competitions and practical activities, and passed the College English Test Band 4 and Band 6. I am now preparing to pursue a Master's degree in a computer-related field.
 ---
 
 ## 💻 Technical Skills
