@@ -24,10 +24,10 @@ I am a 2024 undergraduate graduate of the School of Computer Science and Enginee
 
 ## 📁 Projects
 
-### Machine Learning–Based Smart Parking Management System
+### 1️⃣ Machine Learning–Based Smart Parking Management System
 Tech Stack: Spring Boot · Vue.js · MySQL · Machine Learning · RESTful API
-Designed and developed a full-stack intelligent parking management system integrating machine learning techniques for parking data analysis and optimization.
-Built a backend service using Spring Boot with RESTful APIs and implemented a Vue.js frontend for real-time interaction.
+
+Designed and developed a full-stack intelligent parking management system integrating machine learning techniques for parking data analysis and optimization，Built a backend service using Spring Boot with RESTful APIs and implemented a Vue.js frontend for real-time interaction.
 
 Key Contributions
 - Designed database schema and parking resource management modules
@@ -35,10 +35,10 @@ Key Contributions
 - Applied machine learning methods to analyze parking usage patterns
 - Improved system scalability through modular backend architecture
 
-### Zhonglv Quick Guide – Tourism Recommendation Platform
+### 2️⃣ Zhonglv Quick Guide – Tourism Recommendation Platform
 Tech Stack: Spring Boot · Vue.js · MySQL · Web System Design
-Developed a tourism strategy and information platform providing travel recommendations and destination management services.
-Focused on full-stack web development and system interaction design.
+
+Developed a tourism strategy and information platform providing travel recommendations and destination management services，Focused on full-stack web development and system interaction design.
 
 Key Contributions
 - Designed user–content interaction model and database structure
@@ -46,8 +46,9 @@ Key Contributions
 - Developed front–back separation architecture using Vue + Spring Boot
 - Optimized page responsiveness and user experience
 
-### Happy Elimination Game (Java)
+### 3️⃣ Happy Elimination Game (Java)
 Tech Stack: Java · Object-Oriented Programming · Algorithms
+
 Developed a match-three puzzle game using Java to simulate classic elimination mechanics and game logic control.
 
 Key Contributions
@@ -58,16 +59,28 @@ Key Contributions
 
 ---
 
-## Technical Skills
+## 💻 Technical Skills
 
-- Programming: C, C++
-- Core Knowledge: Data Structures, Algorithms
-- Tools: Git, GitHub, Linux
+**Programming Languages**
+C, C++, Java, Python, JavaScript
+
+**Web Development**
+Spring Boot, Vue.js, RESTful API, Frontend–Backend Separation
+
+**Computer Science Fundamentals**
+Data Structures, Algorithms, Object-Oriented Programming
+
+**Data & Machine Learning**
+Python, Kaggle (self-learning), basic machine learning practice
+
+**Tools & Development Environment**
+Git, GitHub, Web development tools
 
 ---
 
-## Current Focus
+## 📌 Current Focus
 
 - Preparing for postgraduate entrance examination in Computer Science
-- Strengthening algorithm and data structure foundations
-- Participating in programming competitions
+- Strengthening algorithmic thinking and data structure implementation
+- Designing and developing a task management mini-program featuring task scheduling, image attachment, and real-time notification reminders
+- Exploring backend task scheduling, asynchronous messaging, and full-stack system design
