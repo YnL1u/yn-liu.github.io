@@ -60,19 +60,24 @@ Key Contributions
 
 ## 💻 Technical Skills
 
-**Programming Languages**
+**Programming Languages**:
+
 C, C++, Java, Python, JavaScript
 
-**Web Development**
+**Web Development**:
+
 Spring Boot, Vue.js, RESTful API, Frontend–Backend Separation
 
-**Computer Science Fundamentals**
+**Computer Science Fundamentals**:
+
 Data Structures, Algorithms, Object-Oriented Programming
 
-**Data & Machine Learning**
+**Data & Machine Learning**:
+
 Python, Kaggle (self-learning), basic machine learning practice
 
-**Tools & Development Environment**
+**Tools & Development Environment**:
+
 Git, GitHub, Web development tools
 
 ---
