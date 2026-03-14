@@ -24,14 +24,37 @@ I am a 2024 undergraduate graduate of the School of Computer Science and Enginee
 
 ## 📁 Projects
 
-### Maze Solving System
-Implemented maze pathfinding using DFS and BFS algorithms.
+### Machine Learning–Based Smart Parking Management System
+Tech Stack: Spring Boot · Vue.js · MySQL · Machine Learning · RESTful API
+Designed and developed a full-stack intelligent parking management system integrating machine learning techniques for parking data analysis and optimization.
+Built a backend service using Spring Boot with RESTful APIs and implemented a Vue.js frontend for real-time interaction.
 
-### Huffman Coding Compression Tool
-Lossless compression based on Huffman Tree.
+Key Contributions
+- Designed database schema and parking resource management modules
+- Implemented vehicle entry/exit and parking space allocation logic
+- Applied machine learning methods to analyze parking usage patterns
+- Improved system scalability through modular backend architecture
 
-### Campus Navigation System
-Shortest-path navigation using Dijkstra algorithm.
+### Zhonglv Quick Guide – Tourism Recommendation Platform
+Tech Stack: Spring Boot · Vue.js · MySQL · Web System Design
+Developed a tourism strategy and information platform providing travel recommendations and destination management services.
+Focused on full-stack web development and system interaction design.
+
+Key Contributions
+- Designed user–content interaction model and database structure
+- Implemented attraction browsing and strategy publishing modules
+- Developed front–back separation architecture using Vue + Spring Boot
+- Optimized page responsiveness and user experience
+
+### Happy Elimination Game (Java)
+Tech Stack: Java · Object-Oriented Programming · Algorithms
+Developed a match-three puzzle game using Java to simulate classic elimination mechanics and game logic control.
+
+Key Contributions
+
+- Designed object-oriented game architecture
+- Managed game state transitions and event handling
+- Improved logical abstraction and algorithm implementation skills
 
 ---
 
