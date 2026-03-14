@@ -26,7 +26,9 @@ I am a 2024 undergraduate graduate of the School of Computer Science and Enginee
 
 ### 1️⃣ Machine Learning–Based Smart Parking Management System
 Tech Stack: Spring Boot · Vue.js · MySQL · Machine Learning · RESTful API
+
 Designed and developed a full-stack intelligent parking management system integrating machine learning techniques for parking data analysis and optimization，Built a backend service using Spring Boot with RESTful APIs and implemented a Vue.js frontend for real-time interaction.
+
 Key Contributions
 - Designed database schema and parking resource management modules
 - Implemented vehicle entry/exit and parking space allocation logic
@@ -35,7 +37,9 @@ Key Contributions
 
 ### 2️⃣ Zhonglv Quick Guide – Tourism Recommendation Platform
 Tech Stack: Spring Boot · Vue.js · MySQL · Web System Design
+
 Developed a tourism strategy and information platform providing travel recommendations and destination management services，Focused on full-stack web development and system interaction design.
+
 Key Contributions
 - Designed user–content interaction model and database structure
 - Implemented attraction browsing and strategy publishing modules
@@ -44,7 +48,9 @@ Key Contributions
 
 ### 3️⃣ Happy Elimination Game (Java)
 Tech Stack: Java · Object-Oriented Programming · Algorithms
+
 Developed a match-three puzzle game using Java to simulate classic elimination mechanics and game logic control.
+
 Key Contributions
 - Designed object-oriented game architecture
 - Managed game state transitions and event handling
@@ -56,12 +62,16 @@ Key Contributions
 
 **Programming Languages**
 C, C++, Java, Python, JavaScript
+
 **Web Development**
 Spring Boot, Vue.js, RESTful API, Frontend–Backend Separation
+
 **Computer Science Fundamentals**
 Data Structures, Algorithms, Object-Oriented Programming
+
 **Data & Machine Learning**
 Python, Kaggle (self-learning), basic machine learning practice
+
 **Tools & Development Environment**
 Git, GitHub, Web development tools
 
@@ -71,5 +81,5 @@ Git, GitHub, Web development tools
 
 - Preparing for postgraduate entrance examination in Computer Science
 - Strengthening algorithmic thinking and data structure implementation
-- Designing and developing a task management mini-program featuring task scheduling, image attachment, and real-time notification reminders
 - Exploring backend task scheduling, asynchronous messaging, and full-stack system design
+- Designing and developing a task management mini-program featuring task scheduling, image attachment, and real-time notification reminders
