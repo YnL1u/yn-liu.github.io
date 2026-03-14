@@ -25,10 +25,11 @@ author:
   avatar           : "LYN.jpg"
   name             : "YaNan Liu (刘亚男)"
   pronouns         : # example: "he/his"  
-  bio              : "Software Engineering Student Interested in Algorithms, Data Structures and Web Development"
+  bio              : "Undergraduate Student at Changchun University of Technology, College of Humanities & Information, China"
   location         : "China"
-  employer         : "CCUT Humanities & Information College"
+  employer         : "CCUT Humanities & Info"
   uri              : # URL
+  phone            : "+86 17843165361"
   email            : "WNYN0618@gmail.com" 
 
   # Academic websites
