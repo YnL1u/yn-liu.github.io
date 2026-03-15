@@ -5,7 +5,6 @@ categories: [CS Learning]
 tags: [Algorithm, Graph]
 ---
 
-## 问题背景
 
 在图论中，最短路径问题是最经典的问题之一。常见算法包括：
 

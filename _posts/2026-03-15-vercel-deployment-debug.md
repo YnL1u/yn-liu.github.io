@@ -5,7 +5,7 @@ categories: [Tech Notes]
 tags: [Vercel, Deployment, Debugging]
 ---
 
-## 问题背景
+
 
 在将个人网站部署到 :contentReference[oaicite:1]{index=1} 时，构建过程一直报错，导致项目无法正常上线。最初只看到 Build Failed 的提示，但具体原因并不清晰。
 

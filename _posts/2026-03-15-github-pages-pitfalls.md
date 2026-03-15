@@ -5,6 +5,7 @@ categories: [Blog]
 tags: [Jekyll, GitHub Pages, Web, 踩坑记录]
 ---
 
+
 ## 一、为什么要搭建个人网站
 
 作为软件工程专业学生，我希望拥有一个可以长期展示：
@@ -13,8 +14,6 @@ tags: [Jekyll, GitHub Pages, Web, 踩坑记录]
 - 技术博客（Blog）
 - 学习记录
 - 技术成长轨迹
-
-的平台。
 
 相比第三方博客，GitHub Pages + Jekyll 有几个优势：
 
