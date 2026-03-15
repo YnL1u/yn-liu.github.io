@@ -35,7 +35,7 @@ Key Contributions
 - Applied machine learning methods to analyze parking usage patterns
 - Improved system scalability through modular backend architecture
 
-### 2️⃣ Zhonglv Quick Guide – Tourism Recommendation Platform
+### 2️⃣ 中旅快览 – Travel guide website
 Tech Stack: Spring Boot · Vue.js · MySQL · Web System Design
 
 Developed a tourism strategy and information platform providing travel recommendations and destination management services，Focused on full-stack web development and system interaction design.
@@ -46,7 +46,7 @@ Key Contributions
 - Developed front–back separation architecture using Vue + Spring Boot
 - Optimized page responsiveness and user experience
 
-### 3️⃣ Happy Elimination Game (Java)
+### 3️⃣ Happy Connect (Java)
 Tech Stack: Java · Object-Oriented Programming · Algorithms
 
 Developed a match-three puzzle game using Java to simulate classic elimination mechanics and game logic control.
