@@ -3,9 +3,10 @@ title: "Vercel 部署失败排查全过程"
 date: 2026-03-15
 categories: [Tech Notes]
 tags: [Vercel, Deployment, Debugging]
+excerpt: "记录从构建失败到成功部署的完整排查过程，总结 Vercel 项目部署中常见问题与解决思路。"
 ---
 
-## 初始症状
+## 初始
 
 部署日志中出现：
 
@@ -15,7 +16,7 @@ tags: [Vercel, Deployment, Debugging]
 
 网站无法成功生成。
 
-## 排查过程
+## 排查
 
 ### 1. 查看完整构建日志
 
