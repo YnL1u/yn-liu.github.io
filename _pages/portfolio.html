@@ -4,34 +4,24 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
+
 {% include base_path %}
 
----
-title: "Projects"
-permalink: /portfolio/
-author_profile: true
----
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
 
-## 🧩 Maze Solving System
-**Algorithm:** DFS / BFS  
-**Language:** C++  
+1️⃣ Machine Learning–Based Smart Parking Management System
+Tech Stack: Spring Boot · Vue.js · MySQL · Machine Learning · RESTful API
 
-A maze pathfinding system based on graph search algorithms.
+Designed and developed a full-stack intelligent parking management system integrating machine learning techniques for parking data analysis and optimization，Built a backend service using Spring Boot with RESTful APIs and implemented a Vue.js frontend for real-time interaction.
 
-GitHub: https://github.com/YN-Liuu
+2️⃣ Zhonglv Quick Guide – Tourism Recommendation Platform
+Tech Stack: Spring Boot · Vue.js · MySQL · Web System Design
 
----
+Developed a tourism strategy and information platform providing travel recommendations and destination management services，Focused on full-stack web development and system interaction design.
 
-## 🌲 Huffman Coding Compression Tool
-**Algorithm:** Huffman Tree  
-**Language:** C++  
+3️⃣ Happy Elimination Game (Java)
+Tech Stack: Java · Object-Oriented Programming · Algorithms
 
-Implemented lossless compression using Huffman encoding.
-
----
-
-## 🗺 Campus Navigation System
-**Algorithm:** Dijkstra Shortest Path  
-**Language:** C++  
-
-Campus navigation simulation supporting shortest-path queries.
+Developed a match-three puzzle game using Java to simulate classic elimination mechanics and game logic control.
