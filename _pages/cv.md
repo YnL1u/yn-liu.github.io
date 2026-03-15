@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.S. in Software Engineering, Changchun University of Technology Humanities Information College, 2028
+
 
 Projects & Activities
 ======
@@ -24,6 +26,7 @@ Projects & Activities
 * Happy Connect (Java Game)
   * Developed a match-three puzzle game in Java using object-oriented design; implemented core game logic, state management, and event handling.
   
+
 Technical Skills
 ======
 * Programming: C/C++, Java, Python, JavaScript
@@ -31,6 +34,7 @@ Technical Skills
 * CS Fundamentals: Data Structures, Algorithms, OOP
 * ML: Python, basic ML experiments (Kaggle)
 * Tools: Git, GitHub
+
 
 Awards
 ======
