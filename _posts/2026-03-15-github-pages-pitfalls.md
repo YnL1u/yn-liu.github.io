@@ -8,38 +8,7 @@ tags: [Jekyll, GitHub Pages, Web, 踩坑记录]
 
 ## 一、为什么要搭建个人网站
 
-作为软件工程专业学生，我希望拥有一个可以长期展示：
-
-- 项目经历（Portfolio）
-- 技术博客（Blog）
-- 学习记录
-- 技术成长轨迹
-
-相比第三方博客，GitHub Pages + Jekyll 有几个优势：
-
-- 免费托管
-- 与 GitHub 项目直接绑定
-- 支持 Markdown 写作
-- 适合长期维护
-
-于是开始了个人网站搭建之路。
-
----
-
-## 二、整体技术架构
-
-网站实际运行流程如下：
-GitHub Repository
-↓
-GitHub Pages
-↓
-Jekyll 静态生成
-↓
-HTML 页面发布
-
-核心原理：
-
-> Markdown → Jekyll 编译 → 静态 HTML → 网站页面
+2023年左右第一次搭建个人博客，使用的是WordPress，免费的虚拟主机，加上一年15块的.xyz域名，后期续费太贵就不用了，而且PHP语言有点老，跟不上时代，一年后随着域名过期草草结束。相比第三方博客，GitHub Pages + Jekyll 我认为好很多，主要是Github托管，与 GitHub 项目直接绑定，支持 Markdown 写作等，于是在今年开始了个人网站搭建之路。
 
 ---
 
